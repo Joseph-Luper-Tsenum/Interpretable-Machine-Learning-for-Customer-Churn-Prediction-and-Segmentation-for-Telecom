@@ -305,3 +305,5 @@ The interpretability offered by SHAP not only facilitates effective communicatio
 
 
 Link to our dataset: https://drive.google.com/drive/folders/1Tb1ntfGCRgwVLek2e2IKTTYiZKsSoPSW?usp=sharing
+
+Link to YouTube for final video presentation: https://youtu.be/TgT8dDXehqQ
