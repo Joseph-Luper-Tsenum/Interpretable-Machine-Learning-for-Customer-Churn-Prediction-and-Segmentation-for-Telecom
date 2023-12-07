@@ -304,18 +304,4 @@ The interpretability offered by SHAP not only facilitates effective communicatio
 [6] Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, E. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12, 2825-2830.
 
 
-#### Contribution Table
-
-| Task Title  | Task Owner | Start Date | Due Date | Duration
-| ------------- |:-------------:|:-----:|:-----:|-----:|
-| Introduction & Background | Xiaofang Liu  | 11/15/2023 | 11/25/2023 | 8
-| Problem Definition | Saaliha Allauddin Khan Ghori  | 11/15/2023 | 11/25/2023 | 7
-| Data Collection and Cleaning | Xiaofang Liu  | 11/15/2023 | 11/25/2023 | 8
-| Data Visualizations | Shreya Punjabi | 11/20/2023 | 11/25/2023 | 8
-| Methods & Modeling | Tianyu Wang  | 11/20/2023 | 11/25/2023 | 8
-| SHAP Visualization | Joseph Tsenum  | 11/25/2023 | 12/03/2023 | 8
-| Results & Discussion | Joseph Tsenum | 11/25/2023 | 12/03/2023 | 8
-| Video Presentation  | Saaliha Allauddin Khan Ghori  & Shreya Punjabi | 11/25/2023 | 12/03/2023 | 5
-| Final Report  | All  | 11/28/2023 | 12/03/2023 | 6
-
 Link to our dataset: https://drive.google.com/drive/folders/1Tb1ntfGCRgwVLek2e2IKTTYiZKsSoPSW?usp=sharing
